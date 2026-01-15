@@ -1,0 +1,357 @@
+{
+  "validation_dataset": true,
+  "category_tests": {
+    "category_results": {
+      "categories": {
+        "epigenetic": {
+          "category": "epigenetic",
+          "queries_tested": 5,
+          "papers_found": 3,
+          "papers_with_abstracts": 3,
+          "potential_biomarkers": 0,
+          "queries": [
+            {
+              "query": "Horvath clock aging",
+              "papers_found": 1,
+              "papers_with_abstracts": 1,
+              "success": true
+            },
+            {
+              "query": "DNA methylation age",
+              "papers_found": 0,
+              "papers_with_abstracts": 0,
+              "success": false
+            },
+            {
+              "query": "epigenetic clock validation",
+              "papers_found": 0,
+              "papers_with_abstracts": 0,
+              "success": false
+            },
+            {
+              "query": "PhenoAge biomarker",
+              "papers_found": 1,
+              "papers_with_abstracts": 1,
+              "success": true
+            },
+            {
+              "query": "GrimAge mortality",
+              "papers_found": 1,
+              "papers_with_abstracts": 1,
+              "success": true
+            }
+          ]
+        },
+        "proteomic": {
+          "category": "proteomic",
+          "queries_tested": 5,
+          "papers_found": 3,
+          "papers_with_abstracts": 3,
+          "potential_biomarkers": 0,
+          "queries": [
+            {
+              "query": "GDF-15 aging biomarker",
+              "papers_found": 0,
+              "papers_with_abstracts": 0,
+              "success": false
+            },
+            {
+              "query": "plasma protein aging",
+              "papers_found": 1,
+              "papers_with_abstracts": 1,
+              "success": true
+            },
+            {
+              "query": "CRP inflammation aging",
+              "papers_found": 1,
+              "papers_with_abstracts": 1,
+              "success": true
+            },
+            {
+              "query": "IL-6 cytokine aging",
+              "papers_found": 1,
+              "papers_with_abstracts": 1,
+              "success": true
+            },
+            {
+              "query": "albumin protein homeostasis",
+              "papers_found": 0,
+              "papers_with_abstracts": 0,
+              "success": false
+            }
+          ]
+        },
+        "metabolomic": {
+          "category": "metabolomic",
+          "queries_tested": 5,
+          "papers_found": 2,
+          "papers_with_abstracts": 2,
+          "potential_biomarkers": 0,
+          "queries": [
+            {
+              "query": "NAD+ aging metabolism",
+              "papers_found": 0,
+              "papers_with_abstracts": 0,
+              "success": false
+            },
+            {
+              "query": "NMN aging precursor",
+              "papers_found": 1,
+              "papers_with_abstracts": 1,
+              "success": true
+            },
+            {
+              "query": "metabolite aging profile",
+              "papers_found": 0,
+              "papers_with_abstracts": 0,
+              "success": false
+            },
+            {
+              "query": "amino acid aging ratio",
+              "papers_found": 1,
+              "papers_with_abstracts": 1,
+              "success": true
+            },
+            {
+              "query": "lipid peroxidation aging",
+              "papers_found": 0,
+              "papers_with_abstracts": 0,
+              "success": false
+            }
+          ]
+        },
+        "genomic": {
+          "category": "genomic",
+          "queries_tested": 5,
+          "papers_found": 1,
+          "papers_with_abstracts": 1,
+          "potential_biomarkers": 0,
+          "queries": [
+            {
+              "query": "telomere length aging",
+              "papers_found": 1,
+              "papers_with_abstracts": 1,
+              "success": true
+            },
+            {
+              "query": "clonal hematopoiesis aging",
+              "papers_found": 0,
+              "papers_with_abstracts": 0,
+              "success": false
+            },
+            {
+              "query": "mtDNA mutations aging",
+              "papers_found": 0,
+              "papers_with_abstracts": 0,
+              "success": false
+            },
+            {
+              "query": "somatic mutations accumulation",
+              "papers_found": 0,
+              "papers_with_abstracts": 0,
+              "success": false
+            },
+            {
+              "query": "telomere attrition biomarker",
+              "papers_found": 0,
+              "papers_with_abstracts": 0,
+              "success": false
+            }
+          ]
+        },
+        "transcriptomic": {
+          "category": "transcriptomic",
+          "queries_tested": 5,
+          "papers_found": 3,
+          "papers_with_abstracts": 3,
+          "potential_biomarkers": 0,
+          "queries": [
+            {
+              "query": "gene expression aging signature",
+              "papers_found": 1,
+              "papers_with_abstracts": 1,
+              "success": true
+            },
+            {
+              "query": "SASP senescence secretory",
+              "papers_found": 0,
+              "papers_with_abstracts": 0,
+              "success": false
+            },
+            {
+              "query": "inflammatory gene aging",
+              "papers_found": 0,
+              "papers_with_abstracts": 0,
+              "success": false
+            },
+            {
+              "query": "RNA modifications aging",
+              "papers_found": 1,
+              "papers_with_abstracts": 1,
+              "success": true
+            },
+            {
+              "query": "transcriptome aging profile",
+              "papers_found": 1,
+              "papers_with_abstracts": 1,
+              "success": true
+            }
+          ]
+        },
+        "cellular": {
+          "category": "cellular",
+          "queries_tested": 5,
+          "papers_found": 3,
+          "papers_with_abstracts": 3,
+          "potential_biomarkers": 0,
+          "queries": [
+            {
+              "query": "p16INK4a senescence marker",
+              "papers_found": 1,
+              "papers_with_abstracts": 1,
+              "success": true
+            },
+            {
+              "query": "SA-beta-gal senescence",
+              "papers_found": 0,
+              "papers_with_abstracts": 0,
+              "success": false
+            },
+            {
+              "query": "cellular senescence biomarker",
+              "papers_found": 1,
+              "papers_with_abstracts": 1,
+              "success": true
+            },
+            {
+              "query": "CD4 CD8 ratio aging",
+              "papers_found": 1,
+              "papers_with_abstracts": 1,
+              "success": true
+            },
+            {
+              "query": "immunosenescence markers",
+              "papers_found": 0,
+              "papers_with_abstracts": 0,
+              "success": false
+            }
+          ]
+        }
+      },
+      "summary": {
+        "total_time": 88.57768774032593,
+        "total_papers": 15,
+        "total_with_abstracts": 15,
+        "abstract_coverage": 1.0
+      }
+    },
+    "specific_results": {
+      "biomarkers": [
+        {
+          "biomarker": "Horvath Clock",
+          "query": "Horvath DNA methylation clock",
+          "papers_found": 3,
+          "papers_with_abstracts": 3,
+          "success": true
+        },
+        {
+          "biomarker": "GrimAge",
+          "query": "GrimAge epigenetic mortality",
+          "papers_found": 4,
+          "papers_with_abstracts": 4,
+          "success": true
+        },
+        {
+          "biomarker": "DunedinPACE",
+          "query": "DunedinPACE pace of aging",
+          "papers_found": 1,
+          "papers_with_abstracts": 1,
+          "success": true
+        },
+        {
+          "biomarker": "GDF-15",
+          "query": "GDF-15 growth differentiation factor aging",
+          "papers_found": 4,
+          "papers_with_abstracts": 4,
+          "success": true
+        },
+        {
+          "biomarker": "NAD+",
+          "query": "NAD+ nicotinamide aging",
+          "papers_found": 4,
+          "papers_with_abstracts": 4,
+          "success": true
+        },
+        {
+          "biomarker": "Telomere Length",
+          "query": "telomere length aging biomarker",
+          "papers_found": 3,
+          "papers_with_abstracts": 3,
+          "success": true
+        },
+        {
+          "biomarker": "p16INK4a",
+          "query": "p16INK4a senescence marker",
+          "papers_found": 5,
+          "papers_with_abstracts": 5,
+          "success": true
+        },
+        {
+          "biomarker": "CRP",
+          "query": "C-reactive protein aging inflammation",
+          "papers_found": 5,
+          "papers_with_abstracts": 4,
+          "success": true
+        }
+      ],
+      "summary": {
+        "total_tested": 8,
+        "successful": 8,
+        "success_rate": 100.0
+      }
+    }
+  },
+  "benchmarks": {
+    "pubmed_search": {
+      "queries_tested": 3,
+      "total_time": 1.9915251731872559,
+      "average_time_per_query": 0.663841724395752,
+      "total_pmids_found": 30,
+      "pmids_per_second": 15.063831682322004
+    },
+    "abstract_fetching": {
+      "pmids_requested": 20,
+      "papers_retrieved": 16,
+      "total_time": 1.1828055381774902,
+      "time_per_paper": 0.07392534613609314,
+      "papers_per_second": 13.527160199683696
+    },
+    "batch_processing": {
+      "biomarker_terms": 2,
+      "papers_found": 9,
+      "total_time": 22.262444257736206,
+      "time_per_term": 11.131222128868103,
+      "papers_per_second": 0.4042682778137669,
+      "success_rate": 100.0
+    },
+    "rate_limiting": {
+      "expected_rate": 3,
+      "actual_rate": 1.4200949112620127,
+      "requests_made": 5,
+      "total_time": 3.5208914279937744,
+      "rate_limit_working": true
+    },
+    "biorxiv": {
+      "keywords_searched": 1,
+      "total_papers": 0,
+      "total_time": 8.245999574661255,
+      "avg_time_per_keyword": 8.245999574661255,
+      "papers_per_second": 0.0
+    }
+  },
+  "metadata": {
+    "total_time": 161.64846110343933,
+    "end_time": "2026-01-15T10:10:42.570519",
+    "mode": "quick"
+  }
+}
