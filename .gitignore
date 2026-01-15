@@ -201,3 +201,31 @@ pipeline_results/*.png
 # OS
 .DS_Store
 Thumbs.db
+
+# API Keys e secrets
+.env
+*.key
+*_api_key*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Results (opcional - você decide se quer commitar ou não)
+pipeline_results/*.json
+pipeline_results/*.csv
+pipeline_results/*.txt
+pipeline_results/*.png
+
+# Backups
+*.backup
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
