@@ -1,6 +1,10 @@
 <div align="center">
 
-# 🧬 BiomarkerExtract
+<img width="1280" height="720" alt="banner-bioexct-github" src="https://github.com/user-attachments/assets/a477b24b-01c9-478d-a3d5-aa805412031a" />
+
+
+
+# BiomarkerExtract
 
 **AI-Powered Biomarker Discovery from Scientific Literature**
 
@@ -20,17 +24,17 @@
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Feel free to contact me via email for any needs:** contact@antoniovfranco.com
 
 ---
 
-## 🎯 Overview
+## Overview
 
 BiomarkerExtract is a production-ready pipeline for discovering and validating aging biomarkers from scientific literature using Large Language Models. Built on Google's LangExtract framework, it supports multiple LLM providers and delivers publication-quality results at ultra-low cost.
 
-### 🏆 Key Achievements
+###  Key Achievements
 
 - ✅ **79 biomarkers extracted** from 46 scientific papers
 - ✅ **93.7% validation rate** with scientific evidence
@@ -40,22 +44,22 @@ BiomarkerExtract is a production-ready pipeline for discovering and validating a
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🤖 Multi-Provider LLM Support
+### Multi-Provider LLM Support
 - **OpenRouter** - 100+ models with single API key (Recommended)
 - **OpenAI** - GPT-5.2, GPT-4o, O1
 - **Anthropic** - Claude 4.5, Sonnet 4.5
 - **Google** - Gemini 3.0, Gemini Pro
 - **Ollama** - Local inference (FREE)
 
-### 🔬 Complete Pipeline
+### Complete Pipeline
 1. **Literature Search** - PubMed + bioRxiv integration
 2. **Biomarker Extraction** - LLM-powered entity recognition
 3. **Scientific Validation** - Automated quality assessment
 4. **Multi-Format Export** - JSON, CSV, TXT
 
-### 📊 Analysis & Visualization
+### Analysis & Visualization
 - Publication-quality charts
 - Network analysis
 - Category distribution
@@ -64,7 +68,7 @@ BiomarkerExtract is a production-ready pipeline for discovering and validating a
 
 ---
 
-## 💡 Quick Start
+## Quick Start
 
 ### Installation
 ```bash
@@ -121,7 +125,7 @@ print(f"Extracted {results['statistics']['biomarkers_extracted']} biomarkers!")
 
 ---
 
-## 📊 Results
+## Results
 
 ### Sample Extraction (v0.1)
 
@@ -144,16 +148,16 @@ print(f"Extracted {results['statistics']['biomarkers_extracted']} biomarkers!")
 
 ### Category Distribution
 
-- 🧬 Epigenetic: 43.0%
-- 🔬 Proteomic: 34.2%
-- 🦠 Cellular: 10.1%
-- 💊 Metabolomic: 6.3%
-- 🧪 Genomic: 2.5%
-- 📖 Transcriptomic: 2.5%
+- Epigenetic: 43.0%
+- Proteomic: 34.2%
+- Cellular: 10.1%
+- Metabolomic: 6.3%
+- Genomic: 2.5%
+- Transcriptomic: 2.5%
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 - **[UNIFIED_README.md](UNIFIED_README.md)** - Complete system overview
 - **[UNIFIED_CONFIGURATION.md](UNIFIED_CONFIGURATION.md)** - Provider setup guides
@@ -172,7 +176,7 @@ See [examples_unified.py](examples_unified.py) for 9 complete working examples:
 
 ---
 
-## 💰 Cost Comparison
+## Cost Comparison
 
 Processing 1000 papers:
 
@@ -188,7 +192,7 @@ Processing 1000 papers:
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 ```
 BiomarkerExtract/
 ├── langextract/
@@ -210,7 +214,7 @@ BiomarkerExtract/
 
 ---
 
-## 🧪 Testing
+## Testing
 ```bash
 # Run complete test suite
 cd tests/option2
@@ -224,7 +228,7 @@ bash quick_test.sh
 
 ---
 
-## 📈 Statistics
+## Statistics
 
 - **~5,700 lines** of production code
 - **21 Pydantic models** for data validation
@@ -235,7 +239,7 @@ bash quick_test.sh
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please:
 
@@ -247,7 +251,7 @@ Contributions are welcome! Please:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
@@ -255,7 +259,7 @@ Based on [Google's LangExtract](https://github.com/google/langextract) framework
 
 ---
 
-## 🎓 Citation
+## Citation
 
 If you use BiomarkerExtract in your research, please cite:
 ```bibtex
@@ -270,7 +274,7 @@ If you use BiomarkerExtract in your research, please cite:
 
 ---
 
-## 🌟 Acknowledgments
+## Acknowledgments
 
 - Built on [Google's LangExtract](https://github.com/google/langextract)
 - Inspired by aging research and longevity science
@@ -278,18 +282,16 @@ If you use BiomarkerExtract in your research, please cite:
 
 ---
 
-## 📞 Connect
+## Connect
 
-- 📧 Email: contact@antoniovfranco.com
-- 📝 Medium: [@AntonioVFranco](https://medium.com/@AntonioVFranco)
-- 💼 LinkedIn: [antoniovfranco](https://www.linkedin.com/in/antoniovfranco/)
-- 🐙 GitHub: [@AntonioVFranco](https://github.com/AntonioVFranco)
+- Email: contact@antoniovfranco.com
+- Medium: [@AntonioVFranco](https://medium.com/@AntonioVFranco)
+- LinkedIn: [antoniovfranco](https://www.linkedin.com/in/antoniovfranco/)
+- GitHub: [@AntonioVFranco](https://github.com/AntonioVFranco)
 
 ---
 
 <div align="center">
-
-**Made with ❤️ for Aging Research and Longevity Science**
 
 ⭐ **Star this repo if you find it useful!** ⭐
 
